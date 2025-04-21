@@ -16,7 +16,7 @@
 
 🔭 I’m working as a Full Stack Developer, currently working on **Straka**, a sports club penalty management system.<br>
 📚 I'm currently learning Swift to enhance my mobile app development skills, as I already have experience with Flutter.<br>
-🎓I am 24 years old, from South Tyrol, Italy, and currently studying for my Bachelor's degree at TUM (Technische Universität München) in Munich.
+🎓I am 24 years old, from South Tirol, Italy, and currently studying for my Bachelor's degree at TUM in Munich.
 
 ###
 
@@ -28,6 +28,7 @@
 
 <h4 align="lef">💻 Backend</h4>
 
+<div style="display: flex; align-items: center;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -43,6 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  </div>
 
 <h4 align="lef">🎨 Frontend</h4>
 
@@ -64,8 +66,6 @@
   <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-
-
 <h4 align="lef">🤖 IoT</h4>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
