@@ -48,6 +48,7 @@
 
 <h4 align="lef">🎨 Frontend</h4>
 
+<div style="display: flex; align-items: center;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
@@ -66,23 +67,28 @@
   <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
+  </div>
 <h4 align="lef">🤖 IoT</h4>
 
+<div style="display: flex; align-items: center;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://github.com/mqtt/mqttorg-graphics/blob/master/png/mqtt-ver-neg.png?raw=true" height="40" alt="MQTT logo" /> <img width="12" />
 <img src="https://avatars.githubusercontent.com/u/5756403?s=200&v=4" height="40" alt="LoRaWAN logo" /> <img width="12" />
+</div>
 
 <h4 align="lef">🔨 Utility</h4>
 
+<div style="display: flex; align-items: center;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
   <img width="12" />
+</div>
 
 ###
 
