@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hi there, I'm Kevin! 👋</h1>
 
 ###
 
@@ -12,9 +12,7 @@
 
 ###
 
-<p align="left"> Hi there, I'm Kevin! 👋
-
-🔭 I’m working as a Full Stack Developer, currently working on **Straka**, a sports club penalty management system.<br>
+🔭 I’m a Full Stack Developer, currently working on **Straka**, a sports club penalty management system.<br>
 📚 I'm currently learning Swift to enhance my mobile app development skills, as I already have experience with Flutter.<br>
 🎓I am 24 years old, from South Tirol, Italy, and currently studying for my Bachelor's degree at TUM in Munich.
 
