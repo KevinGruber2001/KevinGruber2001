@@ -101,12 +101,20 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/KevinGruber2001/KevinGruber2001/output/github-snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KevinGruber2001/KevinGruber2001/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KevinGruber2001/KevinGruber2001/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/KevinGruber2001/KevinGruber2001/output/github-snake.svg" />
+</picture>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinGruber2001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=calm&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=KevinGruber2001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=KevinGruber2001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinGruber2001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph" />
+  </picture>
 </div>
 
 ###
